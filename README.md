@@ -3,7 +3,7 @@
 This project was created as a learning exercise, serving as a testament to my skills in web development. Utilizing a combination of HTML, CSS, and JavaScript technologies, I designed a responsive web application. The project showcases my ability to craft user-friendly interfaces that adapt seamlessly to both desktop and smartphone screens. 
 </br></br></br>
 
-<h3><a href="https://lucca-sa.github.io/weather-forecast/">Deployed Website</a></a></h3>
+<h3><a href="https://lucca-sa.github.io/weather-forecast/">🔗 Deployed Website 🔗</a></a></h3>
 </br>
 <h2>Languages and tools used:</h2>
 </br>
