@@ -34,6 +34,10 @@ body{
     width: calc(100% - 45px);
 }
 
+.city-input::placeholder {
+    font-weight: bold;
+}
+
 .img-busca {
     width: 20px;
 }
@@ -50,6 +54,12 @@ body{
 
 .botao-busca:hover {
     background: #ffffff;
+    opacity: .6;
+}
+
+.botao-busca:active {
+    background: #ffffff;
+    opacity: .4;
 }
 
 .caixa-media {

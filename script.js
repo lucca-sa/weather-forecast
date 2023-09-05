@@ -26,4 +26,5 @@ async function searchCity(city) {
     document.querySelector(".tempo-previsao").innerHTML = data.weather[0].description
     document.querySelector(".umidade").innerHTML = data.main.humidity + "% de umidade"
     document.querySelector(".icone-tempo").src = `https://openweathermap.org/img/wn/${data.weather[0].icon}.png`
+    document.querySelector(".city-input").value = ""
 }
